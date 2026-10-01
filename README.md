@@ -1,6 +1,6 @@
 ## Martín Zanandrea
 
-Técnico en Computación (UNER) y estudiante avanzado de la Licenciatura en Sistemas de Información. Experiencia full-stack end-to-end — desde el diseño de base de datos hasta la interfaz — aplicando arquitectura en capas para mantener el código escalable y mantenible.
+Técnico en Computación (UNER) y estudiante avanzado de la Licenciatura en Sistemas de Información. Experiencia full-stack end-to-end — desde el diseño de base de datos hasta la interfaz
 
 Concordia, Entre Ríos, Argentina
 
